@@ -3,9 +3,27 @@ layout: default
 ---
 
 <!-- Blurb about yourself using Markdown -->
-<div class="entry" style="text-align: center; margin-bottom: 20px;">
-  {% include about-me.md %}
+<div class="about-me" style="text-align: center; margin-bottom: 20px;">
+  <p>I am a PhD Student in the Computational Science, Engineering, and Mathematics program at the University of Texas at Austin with co-advisors <a href="https://oden.utexas.edu/people/directory/karen-willcox/">Prof. Karen Willcox</a> and <a href="https://sites.google.com/site/anirbanchaudhuri01/">Dr. Anirban Chaudhuri</a>. My research has revolved around developing fast and data-efficient multi-fidelity surrogate models with applications in inverse problems and optimization. I have had the great privilege to be funded by and contribute to the following projects during my PhD: <a href="https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modeling">DARPA ASKEM</a> & <a href="https://arpa-e.energy.gov/technologies/projects/learning-optimal-aerodynamic-designs">ARPA-E LOADS</a>.</p>
+
+  <p>
+    <a href="https://scholar.google.com/citations?user=WjrNUIUAAAAJ&hl=en">
+      <img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Google Scholar">
+    </a>
+    <a href="https://www.linkedin.com/in/vignesh-sella/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://vsella.com/">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+    </a>
+  </p>
 </div>
+<!-- <div class="about-me" style="text-align: center; margin-bottom: 20px;">
+  {% capture about_content %}
+    {% include about-me.md %}
+  {% endcapture %}
+  {{ about_content | markdownify }}
+</div> -->
 
 <h2 style="text-align: center; font-size: 2em;">Recent Publications & Projects</h2>
 
