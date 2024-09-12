@@ -3,11 +3,8 @@ layout: default
 ---
 
 <!-- Blurb about yourself using Markdown -->
-<div class="about-me" style="text-align: center; margin-bottom: 20px;">
-  {% capture about_content %}
-    {% include about-me.md %}
-  {% endcapture %}
-  {{ about_content | markdownify }}
+<div class="entry" style="text-align: center; margin-bottom: 20px;">
+  {% include about-me.md %}
 </div>
 
 <h2 style="text-align: center; font-size: 2em;">Recent Publications & Projects</h2>
