@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## My Publications
-
 <div class="posts">
   {% for post in site.categories.publications %}
     <article class="post">
