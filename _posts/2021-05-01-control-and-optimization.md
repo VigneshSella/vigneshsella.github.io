@@ -2,7 +2,7 @@
 layout: post
 title: Optimal control of quadcopters and robonauts
 categories: [projects, miscellaneous]
-excerpt: Student-led project to develop a hybrid rocket engine using a novel Nytrox-paraffin oxidizer and fuel combination.
+excerpt: Developed real-time control systems for a simulated quadcopter and a two-wheeled robot, using a state-space dynamics representation, LQR, and hill-climbing algorithms to optimize performance
 ---
 
 These two projects were part of the Control Systems and Optimizatin course as part of my undergraduate studies in aerospace engineering at the Univeristy of Illinois at Urbana-Chamapign. Both projects involved creating a real-time control system using a state-space representation of the dynamics of the system. To delve into optimal control we also implemented a linear-quadratic regulator (LQR). The weights and parameters of this system were up to us to optimize. The environment in which we tested our control systems was a simulated, limited-physics, with fixed time-step simulation setup in MATLAB. The first project was to bring a quadcopter from any (within reason) orientation to a fixed point in space, the reference location. We then had to minimize the error with respect to the reference location, and the time it took the system to arrive at this equilibrium. An example of the quadcopter in action can be seen in the GIF below,
