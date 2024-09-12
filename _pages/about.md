@@ -4,26 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+### About me
+I have had the great privilge to experience a culturally diverse and globally oriented upbringing, residing in multiple cities spanning Canada, the United States, and Saudi Arabia. In my free time, I enjoy reading science fiction and fantasy, listening to new music, football (soccer), and occausionally some video games. I am also a big believer in travelling and experiencing new cultures, having visited over 36 countries and counting! I hope to one day visit all the continents, including Antarctica, and eventually see the Earth from space. 
 
-## Features
+As for my educational background, I'm currently a PhD student in the Computational Science, Engineering, and Mathematics (Computational/Applied Mathematics) program in the Oden Institute at UT Austin where I am advised by Dr. Karen Willcox and Dr. Anirban Chaudhuri (MIT). Prior to attending the University of Texas at Austin, I completed my undergraduate degree in aerospace engineering with a minor in computer science at the University of Illinois at Urbana Champaign.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+### Research interests
+My research interests are primarily in data-driven modeling, uncertainty quantification, and optimization. I am personally interested in developing methods with immediate practical applicability, and have typically featured numerical examples from aerospace engineering applications with costly high-fidelity models such as airfoil design, pressure field prediction, etc. I am always on the lookout for new applications to test the methods I have developed, and am open to collaborations in this regard - so feel free to reach out! 
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Since I am working with data-driven methods, I am very careful with the presentation of the results and the replicability of the all the methods I report on, especially deep-learning based approaches. I am a firm believer in the reproducibility in scientific research, and thus all my code is typically available on my GitHub alongside the publication. 
