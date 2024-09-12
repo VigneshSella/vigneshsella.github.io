@@ -7,6 +7,8 @@ excerpt: Leveraging convolutional neural networks for rapid and efficient aerody
 
 Recent work has shown that deep learning provides an alternative solution as an efficient function approximation technique for airfoil surrogate modeling. In this paper we present the feasibility of convolutional neural network (CNN) techniques for aerodynamic performance evaluation. CNN approach will enable designer to fully utilize the ability of computers and statistics to interrogate and interpolate the nonlinear relationship between shapes and flow quantities, and rapidly perform a thorough optimization of the wide design space. The principal idea behind the current effort is to uncover the latent constructs and underlying cross-sectional relationships among the shape parameters, categories of flow field features, and quantities of interest in turbo-machinery blade design. The proposed CNN method is proved to automatically detect essential features and effectively estimate the pressure loss  and deviation much faster than CFD solver.
 
+Authors: Shirui Luo, Jiahuan Cui, **Vignesh Sella**, Jian Liu, Seid Koric & Volodymyr Kindratenko 
+
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
   <a href="https://doi.org/10.1007/978-3-030-90539-2_6" style="background-color: #dda0dd; color: white; padding: 10px; border-radius: 5px; text-decoration: none; font-size: 12px; display: inline-block; width: 50px; text-align: center;">DOI</a>
 
