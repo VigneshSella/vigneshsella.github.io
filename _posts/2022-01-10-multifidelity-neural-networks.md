@@ -23,10 +23,10 @@ aerodynamic airfoils given the performance and design requirements.
 
 Authors: **Vignesh Sella**, Anirban Chaudhuri, Thomas O’Leary-Roseberry, Xiaosong Du, Mengwu Guo, Joaquim Martins, Omar Ghattas, Karen Willcox
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+<!-- <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
   <a href="" style="background-color: #dda0dd; color: white; padding: 10px; border-radius: 5px; text-decoration: none; font-size: 12px; display: inline-block; width: 50px; text-align: center;">DOI</a>
 
   <a href="" style="background-color: #d3d3d3; color: black; padding: 10px; border-radius: 5px; text-decoration: none; font-size: 12px; display: inline-block; width: 50px; text-align: center;">PDF</a>
-</div>
+</div> -->
 
 
