@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LectureGPT: An open-source GPT-3 based AI-assistant 
+title: LectureGPT - an open-source GPT-3 based AI-assistant 
 categories: [projects, natural-language-processing, neural-networks]
 excerpt: An LLM is fine-tuned on course lecture notes and retrieval augmented generation is used to create a conversational AI-assistant for students to ask specific questions about their course material.
 ---
