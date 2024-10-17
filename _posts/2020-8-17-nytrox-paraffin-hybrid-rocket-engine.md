@@ -2,10 +2,10 @@
 layout: post
 title: Development of a nytrox-paraffin hybrid rocket engine
 categories: [publications, miscellaneous]
-excerpt: Student-led project to develop a hybrid rocket engine using a novel Nytrox-paraffin oxidizer and fuel combination.
+excerpt: Student-led project to develop a hybrid rocket engine using a novel Nytrox-paraffin oxidizer and fuel combination. (Featured on the news!)
 ---
 
-A hybrid rocket engine designed using a nitrous oxide-oxygen mixture (Nytrox) and paraffin, dubbed Eugene, was developed for a high-powered rocket by the Illinois Space Society, a chapter of Students for the Exploration and Development of Space at the University of Illinois at Urbana-Champaign. The design objective is to provide 4000 N of thrust to propel a 4 kg payload to 10,000 ft, in order to compete at the Intercollegiate Rocketry and Engineering Competition. Furthermore, with this project students gain firsthand experience developing a novel oxidizer-fuel combination hybrid rocket engine.
+A hybrid rocket engine designed using a nitrous oxide-oxygen mixture (Nytrox) and paraffin, dubbed Eugene, was developed for a high-powered rocket by the Illinois Space Society, a chapter of Students for the Exploration and Development of Space at the University of Illinois at Urbana-Champaign. The design objective is to provide 4000 N of thrust to propel a 4 kg payload to 10,000 ft, in order to compete at the Intercollegiate Rocketry and Engineering Competition. Furthermore, with this project students gain firsthand experience developing a novel oxidizer-fuel combination hybrid rocket engine. This story was picked up by the news and can be found in a few different locations [(1)](https://aerospace.illinois.edu/news/student-research-team-develops-hybrid-rocket-engine), [(2)](https://spacenews.com/student-research-team-develops-hybrid-rocket-engine/), [(3)](https://www.sciencedaily.com/releases/2020/08/200827130610.htm).
 
 Authors: **Vignesh Sella**, Andrew Larkey, Abhiraj Majumder, Avinash Rao, Zavar Abidi, Nicolas Rasmont, Aasheesh Randeo, Miron Liu, Avery Moore, Michael F Lembeck
 
