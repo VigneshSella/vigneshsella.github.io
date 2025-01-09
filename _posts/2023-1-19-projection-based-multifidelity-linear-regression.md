@@ -9,6 +9,8 @@ Surrogate modeling for systems with high-dimensional quantities of interest is i
 
 Authors: **Vignesh Sella**, Julie Pham, Anirban Chaudhuri, Karen Willcox
 
+This work was published at the AIAA SciTech 2023 conference in National Harbor, MD.
+
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
   <a href="https://doi.org/10.2514/6.2023-0916" style="background-color: #dda0dd; color: white; padding: 10px; border-radius: 5px; text-decoration: none; font-size: 12px; display: inline-block; width: 50px; text-align: center;">DOI</a>
 

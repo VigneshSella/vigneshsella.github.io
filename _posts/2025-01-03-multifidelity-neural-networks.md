@@ -21,12 +21,14 @@ orthogonal decomposition based projections are introduced: (i) pre-training, (ii
 (iii) a multi-step method. The MF-NN is applied to approximate the optimal design of 2D
 aerodynamic airfoils given the performance and design requirements.
 
-Authors: **Vignesh Sella**, Anirban Chaudhuri, Thomas O’Leary-Roseberry, Xiaosong Du, Mengwu Guo, Joaquim Martins, Omar Ghattas, Karen Willcox
+Authors: **Vignesh Sella**, Thomas O’Leary-Roseberry, Xiaosong Du, Mengwu Guo, Joaquim Martins, Omar Ghattas, Karen Willcox, and Anirban Chaudhuri
 
-<!-- <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-  <a href="" style="background-color: #dda0dd; color: white; padding: 10px; border-radius: 5px; text-decoration: none; font-size: 12px; display: inline-block; width: 50px; text-align: center;">DOI</a>
+This work was published at the AIAA SciTech 2025 conference in Orlando, FL.
 
-  <a href="" style="background-color: #d3d3d3; color: black; padding: 10px; border-radius: 5px; text-decoration: none; font-size: 12px; display: inline-block; width: 50px; text-align: center;">PDF</a>
-</div> -->
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+  <a href="https://arc.aiaa.org/doi/10.2514/6.2025-2807" style="background-color: #dda0dd; color: white; padding: 10px; border-radius: 5px; text-decoration: none; font-size: 12px; display: inline-block; width: 50px; text-align: center;">DOI</a>
+
+  <a href="https://www.researchgate.net/publication/387755392_Improving_neural_network_efficiency_with_multifidelity_and_dimensionality_reduction_techniques" style="background-color: #d3d3d3; color: black; padding: 10px; border-radius: 5px; text-decoration: none; font-size: 12px; display: inline-block; width: 50px; text-align: center;">PDF</a>
+</div>
 
 

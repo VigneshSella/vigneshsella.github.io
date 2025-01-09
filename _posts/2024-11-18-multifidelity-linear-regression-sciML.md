@@ -9,7 +9,7 @@ Machine learning (ML) methods, which fit to data the parameters of a given param
 
 Authors: Elizabeth Qian, Dayoung Kang, **Vignesh Sella**, Anirban Chaudhuri
 
-See the early access version below, out now!
+See the published version in the American Institute of Mathematical Sciences (AIMS) Foundations of Data Science (FoDS) journal. Note, the PDF version on arXiv may be the preprint version.
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
   <a href="https://www.aimsciences.org/article/doi/10.3934/fods.2024049" style="background-color: #dda0dd; color: white; padding: 10px; border-radius: 5px; text-decoration: none; font-size: 12px; display: inline-block; width: 50px; text-align: center;">DOI</a>
