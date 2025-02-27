@@ -23,7 +23,7 @@ aerodynamic airfoils given the performance and design requirements.
 
 Authors: **Vignesh Sella**, Thomas O’Leary-Roseberry, Xiaosong Du, Mengwu Guo, Joaquim Martins, Omar Ghattas, Karen Willcox, and Anirban Chaudhuri
 
-This work was published at the AIAA SciTech 2025 conference in Orlando, FL.
+This work was published at the AIAA SciTech 2025 conference in Orlando, FL. See at the links below, or [here](https://link.growkudos.com/1eypmblwh6o).
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
   <a href="https://arc.aiaa.org/doi/10.2514/6.2025-2807" style="background-color: #dda0dd; color: white; padding: 10px; border-radius: 5px; text-decoration: none; font-size: 12px; display: inline-block; width: 50px; text-align: center;">DOI</a>
